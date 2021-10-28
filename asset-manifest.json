@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DimaShumanskiy/Homeworks/static/css/main.f2a86191.chunk.css",
+    "main.js": "/DimaShumanskiy/Homeworks/static/js/main.89abee57.chunk.js",
+    "main.js.map": "/DimaShumanskiy/Homeworks/static/js/main.89abee57.chunk.js.map",
+    "runtime-main.js": "/DimaShumanskiy/Homeworks/static/js/runtime-main.9e7f937e.js",
+    "runtime-main.js.map": "/DimaShumanskiy/Homeworks/static/js/runtime-main.9e7f937e.js.map",
+    "static/js/2.490fbe74.chunk.js": "/DimaShumanskiy/Homeworks/static/js/2.490fbe74.chunk.js",
+    "static/js/2.490fbe74.chunk.js.map": "/DimaShumanskiy/Homeworks/static/js/2.490fbe74.chunk.js.map",
+    "index.html": "/DimaShumanskiy/Homeworks/index.html",
+    "precache-manifest.9c43b7f4c435da7ea9920d1625ba9c99.js": "/DimaShumanskiy/Homeworks/precache-manifest.9c43b7f4c435da7ea9920d1625ba9c99.js",
+    "service-worker.js": "/DimaShumanskiy/Homeworks/service-worker.js",
+    "static/css/main.f2a86191.chunk.css.map": "/DimaShumanskiy/Homeworks/static/css/main.f2a86191.chunk.css.map",
+    "static/js/2.490fbe74.chunk.js.LICENSE.txt": "/DimaShumanskiy/Homeworks/static/js/2.490fbe74.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e7f937e.js",
+    "static/js/2.490fbe74.chunk.js",
+    "static/css/main.f2a86191.chunk.css",
+    "static/js/main.89abee57.chunk.js"
+  ]
+}
