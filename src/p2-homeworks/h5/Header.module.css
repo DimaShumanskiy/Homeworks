@@ -1,0 +1,17 @@
+
+.link {
+  text-decoration: none;
+  margin: 5px;
+  background-color: dodgerblue;
+  border-radius: 5px;
+  width: 90px;
+  text-align: center;
+  display: inline-block;
+  color: black;
+  height: 27px;
+}
+
+.link:hover {
+  font-weight: bold;
+  transition-duration: 0.2s;
+}
