@@ -1,0 +1,46 @@
+.message {
+  display: flex;
+  align-items: flex-end;
+}
+
+.message__logo {
+  display: block;
+  max-width: 40px;
+  max-height: 40px;
+  width: 100%;
+  border-radius: 50%;
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
+  margin-right: 35px;
+}
+.message__content{
+  border-radius:5px;
+  padding: 5px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
+  background-color: ;
+  position: relative;
+  font-size: 14px;
+}
+.message__content::after {
+  content: '';
+  position: absolute;
+  left: -30px;
+  top: 55px;
+  border: 10px solid transparent;
+  border-right: 20px solid silver;
+}
+
+.content__text{
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+
+.content__nickname{
+  margin: 0;
+  font-size: 14px;
+}
+
+.content__time{
+  float: right;
+  font-size: 10px;
+}
+

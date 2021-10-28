@@ -1,0 +1,43 @@
+.someClass {
+
+}
+
+.error {
+  border: 1px solid red;
+}
+
+.inputError {
+  height: 30px;
+  border: 2px red solid;
+  border-radius: 4px;
+}
+
+.input {
+  height: 30px;
+  border: 2px silver solid;
+  border-radius: 4px;
+
+}
+
+.btn {
+  margin-left: 10px;
+  margin-right: 10px;
+  border: 1px solid silver;
+  background-color: silver;
+  border-radius: 5px;
+  width: 60px;
+  height: 25px;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  position: relative;
+  height: 65px;
+}
+
+.textError {
+  color: red;
+  margin-left: 33px;
+  position: absolute;
+}

@@ -1,0 +1,17 @@
+.Wrap{
+  margin-top: 5px;
+  width: 200px;
+  position: relative;
+}
+
+.Name {
+  margin-right: 10px;
+}
+.Priority {
+  position: absolute;
+  left: 50%;
+}
+.btn{
+  position: absolute;
+  left: 100%;
+}

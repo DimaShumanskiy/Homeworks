@@ -1,0 +1,10 @@
+.checkbox {
+width: 20px;
+  height: 20px;
+  text-align: center;
+}
+
+.spanClassName {
+  vertical-align: top;
+  margin-top: 3px;
+}

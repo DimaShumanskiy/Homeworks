@@ -1,0 +1,21 @@
+.input:focus{
+  outline: none;
+  border: 2px solid silver;
+}
+.superInput {
+  margin: 10px;
+  background-color: silver;
+  border-radius: 5px;
+  border: 2px solid silver;
+}
+
+.errorInput {
+  margin: 10px;
+  background-color: silver;
+  border-radius: 5px;
+  border: 2px solid red;
+}
+
+.error {
+    color: red;
+}
