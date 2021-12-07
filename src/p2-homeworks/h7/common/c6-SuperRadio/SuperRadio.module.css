@@ -1,0 +1,13 @@
+.label{
+
+}
+.radio{
+appearance: none;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: chocolate;
+}
+.radio:checked{
+  background: rosybrown;
+}

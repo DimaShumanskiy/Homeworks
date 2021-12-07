@@ -1,0 +1,13 @@
+.select{
+  width: 100px;
+  padding: 3px;
+  border-radius: 5px;
+  background-color: darkslategrey;
+  border: 2px solid darkslategrey;
+}
+.select:hover{
+
+}
+.option:checked{
+  background: chocolate;
+}
