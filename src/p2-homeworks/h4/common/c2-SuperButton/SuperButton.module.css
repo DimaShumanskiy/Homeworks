@@ -20,3 +20,7 @@
   width: 90px;
   height: 30px;
 }
+.button:active {
+  background-color: darkgoldenrod;
+  transition: background-color 0s
+}
