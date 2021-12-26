@@ -1,8 +1,7 @@
 import React, {ChangeEvent, useState} from 'react';
 import {requestAPI} from './RequestsAPI';
 import {Favorite, FavoriteBorder} from "@mui/icons-material";
-// import BookmarkBorderIcon from '@mui/icons-material/BookmarkBorder';
-// import BookmarkIcon from '@mui/icons-material/Bookmark';
+
 import {Button, Checkbox, FormControlLabel} from "@mui/material";
 import s from './HW13.module.css'
 
